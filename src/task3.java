@@ -36,5 +36,6 @@ public class task3 {
         for (int i = bottomHeight; i > 0; i--) {
             diamondLineOutput(width, i);
         }
+        System.out.println("test + commit");
     }
 }
